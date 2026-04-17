@@ -1,253 +1,278 @@
-<!-- HUYNHDUONGDEV ANIME README -->
+<!-- HUYNHDUONGDEV FIRE ANIME README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=315&color=0:ff006e,18:fb5607,36:ffbe0b,55:3a86ff,74:8338ec,100:ff4ecd&text=HuynhDuongDev&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Anime%20Coder%20%7C%20AI%20Summoner%20%7C%20Cloud%20Ronin&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:ff1744,20:ff6d00,40:ffea00,60:ff3d00,80:ff9100,100:ff1744&text=HuynhDuongDev&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=34&desc=Lap%20Trinh%20Vien%20Fullstack%20%7C%20Phap%20Su%20AI%20%7C%20Kiem%20Khach%20Cloud&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2100&pause=550&color=FF4ECD&center=true&vCenter=true&width=940&lines=Welcome+to+HuynhDuongDev's+anime+dev+realm;Fullstack+Developer+with+main-character+energy;AI+Engineer+summoning+smart+systems;Cloud+Architect+unlocking+new+arcs;Automation+Builder+speedrunning+boring+tasks;Code.+Ship.+Level+up.+Repeat."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=1900&pause=500&color=000000&center=true&vCenter=true&width=960&lines=Xin+chao%2C+day+la+can+cu+lap+trinh+cua+HuynhDuongDev;Code+nhu+main+anime%2C+ship+nhu+toc+do+anh+sang;Fullstack+Developer+voi+lua+trong+ban+phim;AI+Summoner+goi+he+thong+thong+minh;Cloud+Ronin+mo+khoa+server+realm;Het+bug+la+toi+vao+arc+moi"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/HuynhDuongDev">
-    <img src="https://img.shields.io/badge/GitHub-HuynhDuongDev-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-HuynhDuongDev-ffea00?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff"/>
   </a>
-  <img src="https://img.shields.io/badge/Rank-SSS%20Wibu%20Dev-ff006e?style=for-the-badge&logo=anilist&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mode-Anime%20Arcade-8338ec?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Build-Always%20Shipping-39ff14?style=for-the-badge&logo=starship&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Plot%20Armor-ON-ffbe0b?style=for-the-badge&logo=sparkles&logoColor=111827"/>
+  <img src="https://img.shields.io/badge/Hang-SSS%20Wibu%20Dev-ff1744?style=for-the-badge&logo=anilist&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/He-Hoa%20Anime-ff6d00?style=for-the-badge&logo=crunchyroll&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Trang%20Thai-Dang%20Chay%20Het%20Cong%20Suat-39ff14?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Plot%20Armor-Bat-ffea00?style=for-the-badge&logo=starship&logoColor=000000&labelColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:ff006e,18:fb5607,36:ffbe0b,55:3a86ff,74:8338ec,100:ff4ecd"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=9&color=0:ff1744,16:ff6d00,32:ffea00,48:39ff14,64:00e5ff,82:ff6d00,100:ff1744"/>
 </p>
 
 ---
 
-# 🌸 Anime Command Center
+# 🔥 Trung Tâm Điều Khiển Anime
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main%20Class-Fullstack%20Mage-ff4ecd?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sub%20Class-AI%20Summoner-8338ec?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weapon-API%20Katana-3a86ff?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Armor-Docker%20Mecha-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ultimate-Cloud%20Domain%20Expansion-ffbe0b?style=for-the-badge&logo=icloud&logoColor=111827"/>
+  <img src="https://img.shields.io/badge/Lop%20Chinh-Phap%20Su%20Fullstack-ffea00?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Lop%20Phu-Trieu%20Hoi%20AI-ff6d00?style=for-the-badge&logo=openai&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Vu%20Khi-API%20Katana-00e5ff?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Giap-Docker%20Mecha-2496ed?style=for-the-badge&logo=docker&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Tuyet%20Chieu-Cloud%20Domain%20Expansion-ff1744?style=for-the-badge&logo=icloud&logoColor=000000&labelColor=ffea00"/>
 </p>
 
 ```txt
-> booting huynhduongdev.system
-> loading anime OST, iced coffee, clean commits, and dangerous curiosity
-> current arc: building smarter apps, faster workflows, and cooler dashboards
-> status: online, focused, slightly overpowered
+> khoi_dong: huynhduongdev.fire_mode
+> nap_nhien_lieu: anime OST + ca phe da + commit sach + y tuong nguy hiem
+> arc_hien_tai: xay ung dung nhanh hon, thong minh hon, nhin chay hon
+> trang_thai: online, tap trung, bug nao cung chem
 ```
 
 ---
 
-# 🎮 Quest Board
+# 🧨 Hồ Sơ Nhân Vật
 
-| Rank | Quest | Reward |
-| --- | --- | --- |
-| SSS | Build fullstack apps from idea to deploy | Production-ready magic |
-| SS | Design clean APIs and connect services | Backend sword mastery |
-| SS | Add AI features into real workflows | Smart companion systems |
-| S | Automate repetitive work | More time for boss fights |
-| S | Deploy apps on cloud platforms | Server realm unlocked |
-| S | Build dashboards and admin panels | Control tower vision |
-| A | Optimize database queries | Faster loading aura |
-| A | Secure auth and permissions | Shield barrier active |
-| A | Debug weird production issues | Demon core sealed |
-| A | Create UI with strong visual identity | Anime interface glow-up |
-| B | Write docs people can actually read | Team buff applied |
-| B | Refactor messy code without drama | Peaceful timeline restored |
+| Thuộc tính | Chỉ số |
+| --- | --- |
+| Tên chiến đấu | HuynhDuongDev |
+| Vai trò chính | Lập trình viên Fullstack |
+| Hệ phụ | AI, Automation, Cloud, DevOps |
+| Phong cách | Gọn, nhanh, cháy, có chất anime |
+| Vũ khí quen tay | React, Node.js, TypeScript, Python, Docker |
+| Mục tiêu | Biến ý tưởng thành sản phẩm chạy thật |
+| Nội tại | Gặp bug càng lạ càng tỉnh ngủ |
 
 ---
 
-# ✅ Current Missions
+# 🎮 Bảng Nhiệm Vụ Cấp SSS
 
-| Status | Mission | Stack |
+| Hạng | Nhiệm vụ | Phần thưởng |
 | --- | --- | --- |
-| 🟢 Active | Build fullstack products that feel fast and smooth | React, Node.js, TypeScript |
-| 🟢 Active | Integrate AI into tools, bots, and workflows | OpenAI, Python, APIs |
-| 🟡 Charging | Level up cloud architecture and scaling | AWS, GCP, Azure, Docker |
-| 🟡 Charging | Create automation for boring daily tasks | Python, Node.js, Scripts |
-| 🔵 Research | Explore agents, RAG, and smart assistants | LLM, Vector DB, MCP |
-| 🟣 Side Quest | Make GitHub profile look illegally colorful | Markdown, Badges, Anime energy |
+| SSS | Xây app fullstack từ ý tưởng tới deploy | Sản phẩm chạy thật |
+| SSS | Thiết kế hệ thống có API rõ ràng | Kiếm backend thượng thừa |
+| SS | Tích hợp AI vào workflow thực tế | Trợ thủ thông minh |
+| SS | Tự động hóa việc lặp lại mỗi ngày | Tiết kiệm mana |
+| SS | Tối ưu dashboard và admin panel | Tầm nhìn chỉ huy |
+| S | Deploy app lên cloud ổn định | Mở khóa server realm |
+| S | Viết auth, phân quyền, bảo mật cơ bản | Khiên phòng thủ bật |
+| S | Tối ưu database và cache | Tốc độ tăng vọt |
+| A | Săn bug production khó chịu | Phong ấn quỷ dữ |
+| A | Refactor code rối mà không phá app | Dòng thời gian bình yên |
+| A | Viết tài liệu dễ hiểu cho team | Buff đồng đội |
+| A | Làm UI có cá tính riêng | Giao diện bốc lửa |
+| B | Gom yêu cầu mơ hồ thành task rõ ràng | Map nhiệm vụ sáng đèn |
+| B | Dọn project cũ cho dễ nâng cấp | Kho đồ sạch sẽ |
 
 ---
 
-# 🧩 Skill Tree
+# ✅ Nhiệm Vụ Đang Cày
+
+| Trạng thái | Nhiệm vụ | Bộ kỹ năng |
+| --- | --- | --- |
+| 🟢 Đang chiến | Xây sản phẩm fullstack nhanh, mượt, dễ dùng | React, Node.js, TypeScript |
+| 🟢 Đang chiến | Tích hợp AI vào bot, tool, dashboard | Python, OpenAI, API |
+| 🟡 Đang nạp | Nâng cấp kiến trúc cloud và khả năng scale | AWS, GCP, Azure, Docker |
+| 🟡 Đang nạp | Tạo automation cho việc nhàm chán | Python, Node.js, Script |
+| 🔵 Nghiên cứu | Agent, RAG, trợ lý thông minh, vector database | LLM, MCP, Embedding |
+| 🟣 Nhiệm vụ phụ | Biến GitHub profile thành biển lửa anime | Markdown, Badge, Stats |
+| 🔴 Boss fight | Tối ưu hiệu năng đến khi cảm giác như dịch chuyển tức thời | Cache, Query, Profiling |
+
+---
+
+# 🗺️ Bản Đồ Kỹ Năng
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,php,java,kotlin,html,css,tailwind,mysql,mongodb,postgres,redis,firebase,docker,kubernetes,git,github,linux,nginx,cloudflare,figma,vscode&perline=9"/>
 </p>
 
-| Branch | Power |
+| Nhánh kỹ năng | Nội công |
 | --- | --- |
-| Frontend | React, Next.js, Tailwind, HTML, CSS, animation polish |
-| Backend | Node.js, Express, REST APIs, auth, jobs, services |
-| AI | Prompting, AI integration, bots, assistants, automation brains |
+| Frontend | React, Next.js, Tailwind, responsive UI, hiệu ứng gọn |
+| Backend | Node.js, Express, REST API, auth, job queue, service layer |
+| AI | Prompting, chatbot, agent workflow, tự động hóa thông minh |
 | Database | MySQL, PostgreSQL, MongoDB, Redis, Firebase |
-| DevOps | Docker, Linux, Nginx, Cloudflare, cloud deploys |
-| Product | UX thinking, dashboards, admin tools, useful systems |
+| DevOps | Docker, Linux, Nginx, Cloudflare, cloud deploy |
+| Product | UX, dashboard, admin tool, tính năng có ích thật |
 
 ---
 
-# ⚔️ Tech Loadout
+# ⚔️ Kho Vũ Khí Công Nghệ
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-39ff14?style=for-the-badge&logo=nodedotjs&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=111827"/>
+  <img src="https://img.shields.io/badge/Python-ffea00?style=for-the-badge&logo=python&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/TypeScript-00e5ff?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffea00?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/React-00e5ff?style=for-the-badge&logo=react&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Node.js-39ff14?style=for-the-badge&logo=nodedotjs&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/FastAPI-00e676?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Docker-00e5ff?style=for-the-badge&logo=docker&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Linux-ffea00?style=for-the-badge&logo=linux&logoColor=000000&labelColor=ffffff"/>
 </p>
 
 ---
 
-# ☁️ Cloud Summons
+# ☁️ Triệu Hồi Cloud
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-ffea00?style=for-the-badge&logo=amazonaws&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-00e5ff?style=for-the-badge&logo=googlecloud&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Azure-00e5ff?style=for-the-badge&logo=microsoftazure&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Kubernetes-00e5ff?style=for-the-badge&logo=kubernetes&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Cloudflare-ff6d00?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Nginx-39ff14?style=for-the-badge&logo=nginx&logoColor=000000&labelColor=ffffff"/>
 </p>
 
-| Spell | What it does |
+| Chiêu thức | Tác dụng |
 | --- | --- |
-| Deploy Gate | Push apps from local realm to cloud realm |
-| Container Clone | Package projects with Docker for cleaner shipping |
-| Reverse Proxy Barrier | Route traffic with Nginx and Cloudflare |
-| Monitor Eye | Watch logs, errors, uptime, and strange activity |
-| Scale Form | Prepare apps to handle bigger traffic waves |
+| Cổng Deploy | Đưa app từ local realm lên cloud realm |
+| Phân Thân Container | Đóng gói project bằng Docker cho dễ ship |
+| Kết Giới Reverse Proxy | Điều hướng traffic bằng Nginx và Cloudflare |
+| Mắt Giám Sát | Theo dõi log, lỗi, uptime và tín hiệu lạ |
+| Dạng Scale | Chuẩn bị app đỡ được lượng truy cập lớn hơn |
+| Lá Chắn Backup | Giữ dữ liệu an toàn khi boss xuất hiện |
 
 ---
 
-# 🔥 Boss Raid Checklist
+# 🔥 Checklist Boss Raid
 
-- [x] Create fullstack app foundations
-- [x] Build REST API routes and service layers
-- [x] Connect auth, database, and storage
-- [x] Add responsive UI and dashboard screens
-- [x] Automate repeated developer tasks
-- [x] Deploy apps with Docker and cloud tools
-- [ ] Build AI agent workflows for real users
-- [ ] Add observability, alerts, and analytics
-- [ ] Polish performance until it feels instant
-- [ ] Turn side projects into serious products
+- [x] Dựng nền app fullstack
+- [x] Tạo route API và service layer rõ ràng
+- [x] Kết nối auth, database và storage
+- [x] Làm UI responsive cho desktop và mobile
+- [x] Tạo dashboard/admin panel có cấu trúc
+- [x] Tự động hóa task lặp lại
+- [x] Đóng gói app bằng Docker
+- [x] Deploy app bằng công cụ cloud
+- [ ] Xây AI agent workflow cho người dùng thật
+- [ ] Thêm logging, alert, analytics
+- [ ] Tối ưu tốc độ đến mức gần như tức thời
+- [ ] Làm hệ thống phân quyền sâu hơn
+- [ ] Viết test cho luồng quan trọng
+- [ ] Biến side project thành sản phẩm nghiêm túc
+- [ ] Tạo bộ template deploy dùng lại được
+- [ ] Nâng cấp profile thành căn cứ anime cấp huyền thoại
 
 ---
 
-# 🗡️ Special Moves
+# 🗡️ Tuyệt Chiêu
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API%20Bankai-ff006e?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation%20No%20Jutsu-39ff14?style=for-the-badge&logo=autohotkey&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/AI%20Summoning-8338ec?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Domain%20Expansion-3a86ff?style=for-the-badge&logo=icloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug%20Slayer-ffbe0b?style=for-the-badge&logo=bugsnag&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Refactor%20Breathing-fb5607?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Bankai-ff1744?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Automation%20No%20Jutsu-39ff14?style=for-the-badge&logo=autohotkey&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/AI%20Trieu%20Hoi-ff6d00?style=for-the-badge&logo=openai&logoColor=000000&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Cloud%20Domain%20Expansion-00e5ff?style=for-the-badge&logo=icloud&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Bug%20Slayer-ffea00?style=for-the-badge&logo=bugsnag&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Refactor%20Breathing-ff6d00?style=for-the-badge&logo=git&logoColor=000000&labelColor=ffea00"/>
 </p>
 
-| Move | Damage Type |
+| Tuyệt chiêu | Sát thương |
 | --- | --- |
-| Pixel Perfect Slash | UI polish and responsive cleanup |
-| Database Shadow Clone | Schema design and query optimization |
-| API Thunder Clap | Fast endpoints and clean contracts |
-| Docker Mecha Mode | Repeatable deploys and safer environments |
-| AI Familiar Summon | Smart helpers, bots, and productivity tools |
-| Debug Infinite Void | Hunting bugs that should not exist |
+| Nhất Trảm Pixel | Làm UI sắc, rõ, mượt |
+| Phân Thân Database | Thiết kế schema và tối ưu query |
+| Lôi Đình API | Endpoint nhanh, contract sạch |
+| Docker Mecha Mode | Môi trường chạy ổn định và dễ tái tạo |
+| Triệu Hồi AI Familiar | Bot, trợ lý, tool thông minh |
+| Vô Lượng Debug | Săn bug tưởng như không tồn tại |
+| Hỏa Quyền Refactor | Dọn code rối thành module dễ nâng cấp |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Chỉ Số GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuynhDuongDev&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff4ecd&icon_color=ffbe0b&text_color=ffffff"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HuynhDuongDev&theme=radical&hide_border=true&background=00000000&ring=ff4ecd&fire=ffbe0b&currStreakLabel=39ff14"/>
+  <img height="172" src="https://github-readme-stats.vercel.app/api?username=HuynhDuongDev&show_icons=true&theme=default&hide_border=false&border_color=ff6d00&bg_color=ffffff&title_color=000000&icon_color=ff6d00&text_color=000000&ring_color=ff1744"/>
+  <img height="172" src="https://github-readme-streak-stats.herokuapp.com?user=HuynhDuongDev&theme=default&hide_border=false&border=ff6d00&background=ffffff&ring=ff1744&fire=ff6d00&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhDuongDev&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff4ecd&text_color=ffffff"/>
-</p>
-
----
-
-# 📈 Activity Realm
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuynhDuongDev&theme=react-dark&hide_border=true&bg_color=00000000&color=ff4ecd&line=39ff14&point=ffbe0b&area=true&area_color=8338ec"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuynhDuongDev&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuynhDuongDev&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhDuongDev&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhDuongDev&layout=compact&theme=default&hide_border=false&border_color=ff6d00&bg_color=ffffff&title_color=000000&text_color=000000"/>
 </p>
 
 ---
 
-# 🏆 Trophy Room
+# 📈 Vùng Hoạt Động
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuynhDuongDev&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuynhDuongDev&theme=github-light&hide_border=false&bg_color=ffffff&color=000000&title_color=000000&line=ff1744&point=ff6d00&area=true&area_color=ffea00"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuynhDuongDev&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuynhDuongDev&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhDuongDev&theme=default"/>
 </p>
 
 ---
 
-# 📜 Daily Grind
+# 🏆 Phòng Danh Hiệu
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HuynhDuongDev&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+</p>
+
+---
+
+# 📜 Lịch Cày Hằng Ngày
 
 ```txt
-MON  -> sharpen frontend UI
-TUE  -> train backend APIs
-WED  -> summon AI features
-THU  -> tame cloud deployments
-FRI  -> clear bugs and refactor chaos
-SAT  -> build side quests
-SUN  -> recharge with anime and better ideas
+THU 2  -> mài sắc giao diện frontend
+THU 3  -> luyện API va backend service
+THU 4  -> triệu hồi tính năng AI
+THU 5  -> thuần hóa cloud deployment
+THU 6  -> diệt bug, refactor, tối ưu hiệu năng
+THU 7  -> xây side quest thành sản phẩm thật
+CN     -> xem anime, hồi mana, nghĩ arc tiếp theo
 ```
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Kết Nối Với Tôi
 
 <p align="center">
   <a href="https://github.com/HuynhDuongDev">
-    <img src="https://img.shields.io/badge/GitHub-HuynhDuongDev-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-HuynhDuongDev-ffea00?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff"/>
   </a>
   <a href="https://discord.gg/sietangaingu">
-    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-sietangaingu-00e5ff?style=for-the-badge&logo=discord&logoColor=000000&labelColor=ffea00"/>
   </a>
   <a href="https://facebook.com/tuchekall">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-tuchekall-00e5ff?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=ffffff"/>
   </a>
   <a href="https://tiktok.com/@kochill908">
-    <img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TikTok-kochill908-ff1744?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=ffea00"/>
   </a>
   <a href="https://x.com/pTraiPhan1">
-    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-pTraiPhan1-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=ffea00"/>
   </a>
 </p>
 
 ---
 
-# 👁 Visitors
+# 👁 Lượt Ghé Thăm
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HuynhDuongDev&style=for-the-badge&color=ff4ecd"/>
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-Arigatou%20Senpai-ffbe0b?style=for-the-badge&logo=githubsponsors&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Next%20Arc-Still%20Cooking-39ff14?style=for-the-badge&logo=rocket&logoColor=111827"/>
+  <img src="https://komarev.com/ghpvc/?username=HuynhDuongDev&style=for-the-badge&color=ff6d00&labelColor=ffea00"/>
+  <img src="https://img.shields.io/badge/Cam%20on%20da%20ghe-Arigatou%20Senpai-ffea00?style=for-the-badge&logo=githubsponsors&logoColor=000000&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Arc%20tiep%20theo-Van%20dang%20nau-39ff14?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=ffea00"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:ff006e,18:fb5607,36:ffbe0b,55:3a86ff,74:8338ec,100:ff4ecd&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff1744,20:ff6d00,40:ffea00,60:39ff14,80:ff6d00,100:ff1744&fontColor=000000&section=footer"/>
 </p>
